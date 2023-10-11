@@ -13,6 +13,8 @@ Works with 1 to 4 flash guns.
 
 <img src="imgs/dropController_FlashTriggerMultiplier_Perfboard_001.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
 
+<img src="imgs/dropController_FlashTriggerMultiplier_Perfboard_003.jpg" alt="dropControllerV3 water drop photography system"  >
+
 <img src="imgs/dropController_FlashTriggerMultiplier_Perfboard_002.jpg" alt="dropControllerV3 water drop photography system"  width="100%" >
 
 <br>
